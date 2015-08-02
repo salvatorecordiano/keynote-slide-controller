@@ -1,4 +1,4 @@
-## A Web Keynote Slide Controller
+## Web Keynote Slide Controller
 ### Use your smartphone as Keynote slide controller
 
 ## Install
