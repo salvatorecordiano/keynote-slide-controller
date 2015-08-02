@@ -32,7 +32,7 @@ npm start
 3) Connect to 
 
 ```
-http://{your-machine-ip-addess}:3000
+http://{your-machine-ip-address}:3000
 ```
 
 Using left and right button on web page you will send the left and right keystrokes
